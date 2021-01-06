@@ -1,0 +1,11 @@
+Learn Rust
+==========
+:Author: Armin Pašalić <armin@pasalic.me>
+:Revision: 1.0.0
+:Date: 2021-01-06
+
+== Notes
+This section will be expanded as I learn.
+
+== Learning Resources
+* http://google.com[The Rust Programming Language Book]

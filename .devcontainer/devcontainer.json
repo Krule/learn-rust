@@ -25,7 +25,8 @@
 		"bungcip.better-toml",
 		"vadimcn.vscode-lldb",
 		"mutantdino.resourcemonitor",
-		"ms-azuretools.vscode-docker"
+		"ms-azuretools.vscode-docker",
+		"asciidoctor.asciidoctor-vscode"
 	],
 	// Use 'forwardPorts' to make a list of ports inside the container available locally.
 	// "forwardPorts": [],
